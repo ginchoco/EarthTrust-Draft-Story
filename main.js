@@ -3,7 +3,7 @@ const svg = d3.select("svg")
 const width = + svg.attr("width")
 const height = + svg.attr("height")
 
-const margin = {top: 50, right: 10, bottom: 50, left: 5}
+const margin = {top: 20, right: 10, bottom: 20, left: 5}
 const innerWidth = width - margin.left - margin.right
 const innerHeight = height - margin.top - margin.bottom
 
@@ -14,14 +14,14 @@ const innerHeight = height - margin.top - margin.bottom
 const settings1 = {
     years: ["22/4/04", "29/04/04", "06/05/04", "13/05/04"],
     file: "./CleanBWP2.csv",
-    width: 500
+    width: 800
 }
 
-const settings2 = {
-    years: ["Ht08"],
-    file: "./CleanBWP1.csv",
-    width: 240
-}
+// const settings2 = {
+//     years: ["Ht08"],
+//     file: "./CleanBWP1.csv",
+//     width: 240
+// }
 
 const settings = settings1
 
@@ -44,33 +44,33 @@ d3.csv(settings.file).then(data => {
     const colorScale = d3.scaleOrdinal(d3.schemePaired.slice(0,10))
           .domain(data.map(d => d.Provenance))
 
-    var names = data.map(d => d.Provenance);
-    var uniqueNames = [];
-    $.each(names, function(i, el){
-        if($.inArray(el, uniqueNames) === -1) uniqueNames.push(el);
-    });
+    // var names = data.map(d => d.Provenance);
+    // var uniqueNames = [];
+    // $.each(names, function(i, el){
+    //     if($.inArray(el, uniqueNames) === -1) uniqueNames.push(el);
+    // });
 
-    // Add one dot in the legend for each name.
-    svg.selectAll("mydots")
-        .data(uniqueNames)
-        .enter()
-        .append("circle")
-        .attr("cx", 100)
-        .attr("cy", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
-        .attr("r", 7)
-        .style("fill", function(d){ return colorScale(d)})
+    // // Add one dot in the legend for each name.
+    // svg.selectAll("mydots")
+    //     .data(uniqueNames)
+    //     .enter()
+    //     .append("circle")
+    //     .attr("cx", 100)
+    //     .attr("cy", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+    //     .attr("r", 7)
+    //     .style("fill", function(d){ return colorScale(d)})
 
-    // Add one dot in the legend for each name.
-    svg.selectAll("mylabels")
-        .data(uniqueNames)
-        .enter()
-        .append("text")
-        .attr("x", 120)
-        .attr("y", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
-        .style("fill", function(d){ return colorScale(d)})
-        .text(function(d){ return d})
-        .attr("text-anchor", "right")
-        .style("alignment-baseline", "right")
+    // // Add one dot in the legend for each name.
+    // svg.selectAll("mylabels")
+    //     .data(uniqueNames)
+    //     .enter()
+    //     .append("text")
+    //     .attr("x", 120)
+    //     .attr("y", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+    //     .style("fill", function(d){ return colorScale(d)})
+    //     .text(function(d){ return d})
+    //     .attr("text-anchor", "right")
+    //     .style("alignment-baseline", "right")
 
         
     let max = 0

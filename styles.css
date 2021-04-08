@@ -251,7 +251,12 @@ img {
   z-index: 2;
 }
 
-
+.interact-section{
+  background-color: #000;
+  height: 700px;
+  align-content: center;
+  margin: 100px 0 100px 0;
+}
 
 
 /* media queries  */
