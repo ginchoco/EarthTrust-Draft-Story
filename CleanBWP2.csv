@@ -1,0 +1,541 @@
+Index,Provenance,22/4/04,29/04/04,06/05/04,13/05/04
+0,Sonning Common (control),1,2,3,5
+1,Sonning Common (control),1,3,5,6
+2,Sonning Common (control),1,2,2,5
+3,Sonning Common (control),1,2,3,5
+4,Sonning Common (control),1,2,3,5
+5,Sonning Common (control),1,2,2,5
+6,"GB Westfield, Moray",2,4,5,7
+7,"GB Westfield, Moray",1,1,3,6
+8,"GB Westfield, Moray",1,2,3,5
+9,"GB Westfield, Moray",1,1,1,4
+10,"GB Westfield, Moray",2,3,4,6
+11,"GB Westfield, Moray",1,2,3,6
+12,CZECH Horni Plana-Ce.,3,7,7,7
+13,CZECH Horni Plana-Ce.,2,4,6,7
+14,CZECH Horni Plana-Ce.,2,3,5,6
+15,CZECH Horni Plana-Ce.,2,5,6,7
+16,CZECH Horni Plana-Ce.,1,2,4,6
+17,CZECH Horni Plana-Ce.,2,6,7,7
+18,FRANCE Perche,1,2,3,5
+19,FRANCE Perche,1,3,5,6
+20,FRANCE Perche,1,3,5,6
+21,FRANCE Perche,1,2,4,6
+22,FRANCE Perche,1,1,3,5
+23,FRANCE Perche,1,2,3,5
+24,GB Cirencester Park,1,2,3,5
+25,GB Cirencester Park,2,5,6,7
+26,GB Cirencester Park,1,2,3,5
+27,GB Cirencester Park,1,2,4,6
+28,GB Cirencester Park,1,2,3,5
+29,GB Cirencester Park,1,1,2,5
+30,BELGIUM Soignes,1,2,3,6
+31,BELGIUM Soignes,1,2,3,6
+32,BELGIUM Soignes,3,6,7,7
+33,BELGIUM Soignes,1,1,1,3
+34,BELGIUM Soignes,1,2,2,2
+35,BELGIUM Soignes,1,1,1,2
+36,NETHERLANDS Elspeet,1,1,1,3
+37,NETHERLANDS Elspeet,1,1,1,2
+38,NETHERLANDS Elspeet,1,2,3,5
+39,NETHERLANDS Elspeet,1,2,3,5
+40,NETHERLANDS Elspeet,1,3,5,6
+41,NETHERLANDS Elspeet,1,1,1,3
+42,GERMANY Farchau,1,1,1,4
+43,GERMANY Farchau,1,2,4,6
+44,GERMANY Farchau,1,3,5,7
+45,GERMANY Farchau,2,5,6,7
+46,GERMANY Farchau,2,5,5,6
+47,GERMANY Farchau,2,5,5,7
+48,FRANCE Plateaux du,2,3,5,7
+49,FRANCE Plateaux du,1,3,5,7
+50,FRANCE Plateaux du,2,4,6,7
+51,FRANCE Plateaux du,1,2,4,6
+52,FRANCE Plateaux du,2,3,3,6
+53,FRANCE Plateaux du,1,2,2,5
+54,FRANCE Bretagne,2,5,6,7
+55,FRANCE Bretagne,1,3,5,7
+56,FRANCE Bretagne,1,4,5,6
+57,FRANCE Bretagne,1,1,1,2
+58,FRANCE Bretagne,1,2,3,5
+59,FRANCE Bretagne,2,3,5,6
+60,"GB Lowther Estate, Cumbria",2,4,5,6
+61,"GB Lowther Estate, Cumbria",2,2,4,6
+62,"GB Lowther Estate, Cumbria",1,2,2,5
+63,"GB Lowther Estate, Cumbria",1,2,2,5
+64,"GB Lowther Estate, Cumbria",1,2,5,6
+65,"GB Lowther Estate, Cumbria",1,3,5,6
+66,CZECH Jablonec NN,2,6,7,7
+67,CZECH Jablonec NN,3,7,7,7
+68,CZECH Jablonec NN,1,2,2,5
+69,CZECH Jablonec NN,2,5,7,7
+70,CZECH Jablonec NN,2,5,6,7
+71,CZECH Jablonec NN,1,3,5,7
+72,DENMARK Grasten,1,2,4,7
+73,DENMARK Grasten,2,3,4,6
+74,DENMARK Grasten,1,2,3,6
+75,DENMARK Grasten,2,4,6,7
+76,DENMARK Grasten,2,4,6,7
+77,DENMARK Grasten,2,4,6,7
+78,GERMANY Urach,1,3,5,6
+79,GERMANY Urach,1,3,5,6
+80,GERMANY Urach,1,2,2,5
+81,GERMANY Urach,1,2,3,5
+82,GERMANY Urach,1,2,4,6
+83,GERMANY Urach,1,3,6,7
+84,Sonning Common (control),1,2,3,6
+85,Sonning Common (control),3,6,7,7
+86,Sonning Common (control),2,4,5,6
+87,Sonning Common (control),1,2,3,6
+88,Sonning Common (control),1,2,3,5
+89,Sonning Common (control),1,2,3,5
+90,LUX Heinerscheid,1,2,3,5
+91,LUX Heinerscheid,1,2,3,6
+92,LUX Heinerscheid,1,2,2,4
+93,LUX Heinerscheid,1,2,3,5
+94,LUX Heinerscheid,1,1,2,5
+95,LUX Heinerscheid,1,2,2,5
+96,SLOVENIA Postojna Masun,2,6,7,7
+97,SLOVENIA Postojna Masun,2,3,5,6
+98,SLOVENIA Postojna Masun,1,5,6,7
+99,SLOVENIA Postojna Masun,1,3,5,7
+100,SLOVENIA Postojna Masun,2,6,6,7
+101,SLOVENIA Postojna Masun,1,1,1,5
+102,NETHERLANDS Aarnink,1,2,3,6
+103,NETHERLANDS Aarnink,1,2,3,5
+104,NETHERLANDS Aarnink,1,2,3,6
+105,NETHERLANDS Aarnink,1,2,5,6
+106,NETHERLANDS Aarnink,1,2,3,5
+107,NETHERLANDS Aarnink,1,2,2,4
+108,South Downs  Q.E. (Control),1,2,4,6
+109,South Downs  Q.E. (Control),1,2,3,5
+110,South Downs  Q.E. (Control),1,2,3,6
+111,South Downs  Q.E. (Control),1,2,3,6
+112,South Downs  Q.E. (Control),1,2,3,5
+113,South Downs  Q.E. (Control),1,2,3,5
+114,GB South Downs Q.E. ,1,2,2,4
+115,GB South Downs Q.E. ,1,2,3,5
+116,GB South Downs Q.E. ,2,3,5,7
+117,GB South Downs Q.E. ,1,3,5,7
+118,GB South Downs Q.E. ,1,2,2,4
+119,GB South Downs Q.E. ,1,2,3,6
+120,FRANCE Bourdure Man,1,2,5,7
+121,FRANCE Bourdure Man,1,1,2,5
+122,FRANCE Bourdure Man,1,2,4,6
+123,FRANCE Bourdure Man,1,2,3,6
+124,FRANCE Bourdure Man,1,2,3,6
+125,FRANCE Bourdure Man,1,1,2,5
+126,South Downs  Q.E. (Control),1,2,3,6
+127,South Downs  Q.E. (Control),1,2,3,5
+128,South Downs  Q.E. (Control),1,3,5,7
+129,South Downs  Q.E. (Control),1,2,2,5
+130,South Downs  Q.E. (Control),1,2,5,6
+131,South Downs  Q.E. (Control),1,2,3,5
+132,FRANCE Picardie,2,4,6,7
+133,FRANCE Picardie,1,2,4,6
+134,FRANCE Picardie,1,3,4,6
+135,FRANCE Picardie,1,3,5,6
+136,FRANCE Picardie,1,2,3,5
+137,FRANCE Picardie,2,3,6,7
+138,AUSTRIA Hinterstoder,2,5,6,7
+139,AUSTRIA Hinterstoder,1,3,5,7
+140,AUSTRIA Hinterstoder,2,5,6,7
+141,AUSTRIA Hinterstoder,2,6,7,7
+142,AUSTRIA Hinterstoder,1,3,4,6
+143,AUSTRIA Hinterstoder,2,4,5,7
+144,FRANCE Sud Massif,1,3,5,7
+145,FRANCE Sud Massif,2,4,5,7
+146,FRANCE Sud Massif,2,3,5,7
+147,FRANCE Sud Massif,1,1,2,5
+148,FRANCE Sud Massif,1,1,3,5
+149,FRANCE Sud Massif,1,2,2,4
+150,South Downs  Q.E. (Control),1,5,6,7
+151,South Downs  Q.E. (Control),2,5,6,7
+152,South Downs  Q.E. (Control),1,2,4,6
+153,South Downs  Q.E. (Control),1,1,2,4
+154,South Downs  Q.E. (Control),1,2,3,6
+155,South Downs  Q.E. (Control),1,1,2,6
+156,POLAND Bilowo 115/116,1,3,5,7
+157,POLAND Bilowo 115/116,1,2,3,6
+158,POLAND Bilowo 115/116,1,2,3,5
+159,POLAND Bilowo 115/116,3,6,7,7
+160,POLAND Bilowo 115/116,1,3,5,7
+161,POLAND Bilowo 115/116,2,2,3,6
+162,CZECH Nizbor,1,4,6,7
+163,CZECH Nizbor,1,3,5,6
+164,CZECH Nizbor,2,5,6,7
+165,CZECH Nizbor,1,6,7,7
+166,CZECH Nizbor,1,3,5,7
+167,CZECH Nizbor,2,3,5,7
+168,FRANCE Pyrenees Or,2,5,6,7
+169,FRANCE Pyrenees Or,2,3,5,7
+170,FRANCE Pyrenees Or,1,3,5,7
+171,FRANCE Pyrenees Or,2,3,5,7
+172,FRANCE Pyrenees Or,1,3,5,7
+173,FRANCE Pyrenees Or,2,4,6,7
+174,SWEDEN Torup,1,2,2,5
+175,SWEDEN Torup,1,2,3,6
+176,SWEDEN Torup,1,1,1,3
+177,SWEDEN Torup,1,3,5,6
+178,SWEDEN Torup,1,2,3,6
+179,SWEDEN Torup,1,2,3,6
+180,GERMANY Urach,2,3,5,7
+181,GERMANY Urach,1,2,3,5
+182,GERMANY Urach,1,2,3,6
+183,GERMANY Urach,1,1,2,4
+184,GERMANY Urach,1,3,4,6
+185,GERMANY Urach,1,2,2,4
+186,POLAND Bilowo 115/116,1,2,4,6
+187,POLAND Bilowo 115/116,1,4,6,7
+188,POLAND Bilowo 115/116,1,2,3,6
+189,POLAND Bilowo 115/116,2,3,6,7
+190,POLAND Bilowo 115/116,1,3,5,7
+191,POLAND Bilowo 115/116,1,2,2,5
+192,FRANCE Perche,1,3,5,7
+193,FRANCE Perche,1,2,5,7
+194,FRANCE Perche,1,2,3,5
+195,FRANCE Perche,1,1,3,6
+196,FRANCE Perche,1,3,4,6
+197,FRANCE Perche,1,1,1,4
+198,SLOVENIA Postojna Masun,1,3,5,7
+199,SLOVENIA Postojna Masun,2,6,7,7
+200,SLOVENIA Postojna Masun,1,2,4,6
+201,SLOVENIA Postojna Masun,2,5,7,7
+202,SLOVENIA Postojna Masun,1,3,5,7
+203,SLOVENIA Postojna Masun,1,3,4,6
+204,South Downs  Q.E. (Control),1,2,4,6
+205,South Downs  Q.E. (Control),1,1,3,5
+206,South Downs  Q.E. (Control),1,3,5,7
+207,South Downs  Q.E. (Control),1,2,3,6
+208,South Downs  Q.E. (Control),1,2,2,5
+209,South Downs  Q.E. (Control),1,1,4,5
+210,"GB Lowther Estate, Cumbria",1,2,3,6
+211,"GB Lowther Estate, Cumbria",1,2,4,6
+212,"GB Lowther Estate, Cumbria",1,3,6,7
+213,"GB Lowther Estate, Cumbria",1,2,3,5
+214,"GB Lowther Estate, Cumbria",1,3,5,7
+215,"GB Lowther Estate, Cumbria",2,4,6,7
+216,FRANCE Bretagne,2,5,6,7
+217,FRANCE Bretagne,1,3,5,6
+218,FRANCE Bretagne,1,2,5,6
+219,FRANCE Bretagne,1,2,4,7
+220,FRANCE Bretagne,1,1,1,3
+221,FRANCE Bretagne,1,3,5,7
+222,FRANCE Pyrenees Or,2,4,6,7
+223,FRANCE Pyrenees Or,1,3,5,7
+224,FRANCE Pyrenees Or,2,5,7,7
+225,FRANCE Pyrenees Or,1,1,3,5
+226,FRANCE Pyrenees Or,1,3,5,7
+227,FRANCE Pyrenees Or,1,4,6,7
+228,NETHERLANDS Aarnink,1,2,4,6
+229,NETHERLANDS Aarnink,1,2,3,5
+230,NETHERLANDS Aarnink,1,2,3,6
+231,NETHERLANDS Aarnink,1,2,5,7
+232,NETHERLANDS Aarnink,1,2,4,6
+233,NETHERLANDS Aarnink,1,2,3,5
+234,Sonning Common (control),1,2,4,6
+235,Sonning Common (control),1,2,4,6
+236,Sonning Common (control),1,2,4,5
+237,Sonning Common (control),1,1,2,4
+238,Sonning Common (control),1,1,2,3
+239,Sonning Common (control),1,3,5,6
+240,CZECH Nizbor,1,2,4,6
+241,CZECH Nizbor,1,3,5,7
+242,CZECH Nizbor,1,2,5,7
+243,CZECH Nizbor,2,4,6,7
+244,CZECH Nizbor,1,2,4,7
+245,CZECH Nizbor,2,5,7,7
+246,FRANCE Sud Massif,1,2,2,5
+247,FRANCE Sud Massif,1,2,5,7
+248,FRANCE Sud Massif,1,3,5,6
+249,FRANCE Sud Massif,1,3,4,6
+250,FRANCE Sud Massif,1,1,2,5
+251,FRANCE Sud Massif,1,1,1,3
+252,GB Cirencester Park,2,4,6,7
+253,GB Cirencester Park,1,5,6,7
+254,GB Cirencester Park,2,4,6,7
+255,GB Cirencester Park,1,3,6,7
+256,GB Cirencester Park,2,3,4,7
+257,GB Cirencester Park,1,1,1,4
+258,NETHERLANDS Elspeet,1,2,2,5
+259,NETHERLANDS Elspeet,1,3,5,6
+260,NETHERLANDS Elspeet,1,1,2,5
+261,NETHERLANDS Elspeet,1,2,3,6
+262,NETHERLANDS Elspeet,1,2,3,5
+263,NETHERLANDS Elspeet,1,2,4,6
+264,DENMARK Grasten,1,2,4,6
+265,DENMARK Grasten,2,2,5,7
+266,DENMARK Grasten,2,2,5,7
+267,DENMARK Grasten,1,2,2,5
+268,DENMARK Grasten,1,2,4,7
+269,DENMARK Grasten,1,3,4,6
+270,"GB Westfield, Moray",1,3,6,7
+271,"GB Westfield, Moray",1,1,2,3
+272,"GB Westfield, Moray",1,2,4,7
+273,"GB Westfield, Moray",1,1,2,5
+274,"GB Westfield, Moray",1,1,2,6
+275,"GB Westfield, Moray",1,2,3,6
+276,Sonning Common (control),1,1,2,5
+277,Sonning Common (control),1,2,4,6
+278,Sonning Common (control),1,2,2,4
+279,Sonning Common (control),1,1,3,6
+280,Sonning Common (control),1,3,4,6
+281,Sonning Common (control),1,2,4,5
+282,FRANCE Plateaux du,1,2,2,5
+283,FRANCE Plateaux du,1,3,5,7
+284,FRANCE Plateaux du,1,5,6,7
+285,FRANCE Plateaux du,1,3,5,6
+286,FRANCE Plateaux du,1,2,4,6
+287,FRANCE Plateaux du,1,2,4,6
+288,AUSTRIA Hinterstoder,1,1,1,3
+289,AUSTRIA Hinterstoder,2,5,7,7
+290,AUSTRIA Hinterstoder,2,4,6,7
+291,AUSTRIA Hinterstoder,1,5,6,7
+292,AUSTRIA Hinterstoder,5,7,7,7
+293,AUSTRIA Hinterstoder,2,6,7,7
+294,GB South Downs Q.E. ,2,3,5,6
+295,GB South Downs Q.E. ,2,4,6,7
+296,GB South Downs Q.E. ,2,3,5,6
+297,GB South Downs Q.E. ,1,2,3,5
+298,GB South Downs Q.E. ,1,2,3,6
+299,GB South Downs Q.E. ,1,3,4,6
+300,BELGIUM Soignes,1,1,4,6
+301,BELGIUM Soignes,1,1,2,3
+302,BELGIUM Soignes,1,3,5,7
+303,BELGIUM Soignes,1,1,2,4
+304,BELGIUM Soignes,1,1,4,6
+305,BELGIUM Soignes,1,2,2,5
+306,CZECH Jablonec NN,2,6,7,7
+307,CZECH Jablonec NN,2,6,7,7
+308,CZECH Jablonec NN,1,6,6,7
+309,CZECH Jablonec NN,1,3,6,7
+310,CZECH Jablonec NN,2,4,6,7
+311,CZECH Jablonec NN,2,5,6,7
+312,South Downs  Q.E. (Control),1,3,4,6
+313,South Downs  Q.E. (Control),1,1,3,6
+314,South Downs  Q.E. (Control),1,3,5,6
+315,South Downs  Q.E. (Control),1,2,3,5
+316,South Downs  Q.E. (Control),1,2,5,7
+317,South Downs  Q.E. (Control),1,3,5,7
+318,FRANCE Picardie,1,2,3,6
+319,FRANCE Picardie,1,1,3,5
+320,FRANCE Picardie,1,1,2,5
+321,FRANCE Picardie,1,2,3,5
+322,FRANCE Picardie,1,2,5,6
+323,FRANCE Picardie,1,3,5,7
+324,LUX Heinerscheid,1,2,2,4
+325,LUX Heinerscheid,2,3,5,7
+326,LUX Heinerscheid,2,4,6,6
+327,LUX Heinerscheid,1,1,2,5
+328,LUX Heinerscheid,2,2,3,6
+329,LUX Heinerscheid,1,3,5,7
+330,GERMANY Farchau,2,3,5,7
+331,GERMANY Farchau,2,4,5,7
+332,GERMANY Farchau,2,5,6,7
+333,GERMANY Farchau,1,3,4,6
+334,GERMANY Farchau,1,2,3,6
+335,GERMANY Farchau,2,4,6,7
+336,SWEDEN Torup,1,2,3,5
+337,SWEDEN Torup,2,3,4,6
+338,SWEDEN Torup,2,3,3,5
+339,SWEDEN Torup,2,4,5,7
+340,SWEDEN Torup,2,4,6,7
+341,SWEDEN Torup,2,5,6,7
+342,FRANCE Bourdure Man,1,2,5,6
+343,FRANCE Bourdure Man,2,3,4,6
+344,FRANCE Bourdure Man,1,1,2,2
+345,FRANCE Bourdure Man,2,3,5,7
+346,FRANCE Bourdure Man,1,3,4,6
+347,FRANCE Bourdure Man,1,2,3,5
+348,South Downs  Q.E. (Control),2,4,5,7
+349,South Downs  Q.E. (Control),1,2,3,5
+350,South Downs  Q.E. (Control),1,2,2,5
+351,South Downs  Q.E. (Control),1,2,2,4
+352,South Downs  Q.E. (Control),1,2,3,5
+353,South Downs  Q.E. (Control),1,2,2,5
+354,CZECH Horni Plana-Ce.,2,4,5,6
+355,CZECH Horni Plana-Ce.,2,4,5,7
+356,CZECH Horni Plana-Ce.,2,3,5,7
+357,CZECH Horni Plana-Ce.,3,6,7,7
+358,CZECH Horni Plana-Ce.,1,5,6,7
+359,CZECH Horni Plana-Ce.,2,3,6,7
+360,"GB Westfield, Moray",1,3,4,6
+361,"GB Westfield, Moray",2,4,5,6
+362,"GB Westfield, Moray",1,3,5,6
+363,"GB Westfield, Moray",2,3,5,7
+364,"GB Westfield, Moray",1,3,5,7
+365,"GB Westfield, Moray",1,5,7,7
+366,South Downs  Q.E. (Control),1,1,2,5
+367,South Downs  Q.E. (Control),1,1,2,5
+368,South Downs  Q.E. (Control),1,3,5,6
+369,South Downs  Q.E. (Control),2,4,6,7
+370,South Downs  Q.E. (Control),1,1,2,5
+371,South Downs  Q.E. (Control),1,3,6,7
+372,CZECH Nizbor,2,5,6,7
+373,CZECH Nizbor,2,5,6,7
+374,CZECH Nizbor,1,2,3,6
+375,CZECH Nizbor,2,3,5,7
+376,CZECH Nizbor,2,4,6,7
+377,CZECH Nizbor,1,3,4,6
+378,"GB Lowther Estate, Cumbria",2,2,3,6
+379,"GB Lowther Estate, Cumbria",1,1,3,5
+380,"GB Lowther Estate, Cumbria",1,2,2,5
+381,"GB Lowther Estate, Cumbria",1,2,3,5
+382,"GB Lowther Estate, Cumbria",2,4,5,6
+383,"GB Lowther Estate, Cumbria",2,3,5,7
+384,GERMANY Farchau,1,2,4,6
+385,GERMANY Farchau,2,5,6,7
+386,GERMANY Farchau,2,4,5,7
+387,GERMANY Farchau,2,5,6,7
+388,GERMANY Farchau,1,3,5,7
+389,GERMANY Farchau,2,4,6,7
+390,FRANCE Plateaux du,2,3,4,6
+391,FRANCE Plateaux du,1,2,2,4
+392,FRANCE Plateaux du,1,2,3,5
+393,FRANCE Plateaux du,1,2,3,6
+394,FRANCE Plateaux du,1,2,3,5
+395,FRANCE Plateaux du,1,2,2,5
+396,DENMARK Grasten,2,3,5,6
+397,DENMARK Grasten,0,0,0,0
+398,DENMARK Grasten,2,3,5,7
+399,DENMARK Grasten,2,2,4,6
+400,DENMARK Grasten,2,2,4,6
+401,DENMARK Grasten,3,6,7,7
+402,FRANCE Perche,1,2,2,4
+403,FRANCE Perche,2,3,5,6
+404,FRANCE Perche,2,3,5,6
+405,FRANCE Perche,1,1,3,6
+406,FRANCE Perche,1,3,5,7
+407,FRANCE Perche,1,3,5,6
+408,NETHERLANDS Aarnink,1,2,3,5
+409,NETHERLANDS Aarnink,1,2,3,6
+410,NETHERLANDS Aarnink,1,2,2,5
+411,NETHERLANDS Aarnink,1,2,4,6
+412,NETHERLANDS Aarnink,1,1,2,4
+413,NETHERLANDS Aarnink,1,2,3,6
+414,South Downs  Q.E. (Control),2,4,5,7
+415,South Downs  Q.E. (Control),1,2,3,6
+416,South Downs  Q.E. (Control),1,2,4,7
+417,South Downs  Q.E. (Control),2,3,5,7
+418,South Downs  Q.E. (Control),1,1,2,5
+419,South Downs  Q.E. (Control),1,2,2,4
+420,FRANCE Bretagne,1,2,2,5
+421,FRANCE Bretagne,2,4,5,7
+422,FRANCE Bretagne,2,3,5,7
+423,FRANCE Bretagne,1,2,3,5
+424,FRANCE Bretagne,2,3,5,7
+425,FRANCE Bretagne,1,2,4,6
+426,GB Cirencester Park,1,2,3,6
+427,GB Cirencester Park,1,4,6,7
+428,GB Cirencester Park,1,1,3,6
+429,GB Cirencester Park,2,3,5,6
+430,GB Cirencester Park,2,3,5,7
+431,GB Cirencester Park,1,1,3,6
+432,South Downs  Q.E. (Control),2,5,6,7
+433,South Downs  Q.E. (Control),1,2,4,6
+434,South Downs  Q.E. (Control),1,1,2,5
+435,South Downs  Q.E. (Control),1,2,2,5
+436,South Downs  Q.E. (Control),2,3,5,6
+437,South Downs  Q.E. (Control),1,2,3,6
+438,AUSTRIA Hinterstoder,2,5,6,7
+439,AUSTRIA Hinterstoder,5,7,7,7
+440,AUSTRIA Hinterstoder,2,6,7,7
+441,AUSTRIA Hinterstoder,2,6,7,7
+442,AUSTRIA Hinterstoder,3,5,6,7
+443,AUSTRIA Hinterstoder,2,5,6,7
+444,CZECH Jablonec NN,2,4,6,7
+445,CZECH Jablonec NN,2,3,5,7
+446,CZECH Jablonec NN,2,6,7,7
+447,CZECH Jablonec NN,4,7,7,7
+448,CZECH Jablonec NN,2,6,7,7
+449,CZECH Jablonec NN,2,6,6,7
+450,SWEDEN Torup,1,1,1,6
+451,SWEDEN Torup,1,5,6,7
+452,SWEDEN Torup,1,3,5,7
+453,SWEDEN Torup,1,3,5,6
+454,SWEDEN Torup,1,3,5,7
+455,SWEDEN Torup,1,1,3,6
+456,Sonning Common (control),1,3,4,6
+457,Sonning Common (control),1,1,2,4
+458,Sonning Common (control),1,1,2,5
+459,Sonning Common (control),1,1,2,5
+460,Sonning Common (control),1,2,4,5
+461,Sonning Common (control),2,3,5,6
+462,LUX Heinerscheid,1,2,4,6
+463,LUX Heinerscheid,1,1,2,5
+464,LUX Heinerscheid,1,1,2,4
+465,LUX Heinerscheid,1,2,3,6
+466,LUX Heinerscheid,1,2,3,5
+467,LUX Heinerscheid,1,1,3,5
+468,FRANCE Sud Massif,1,3,5,7
+469,FRANCE Sud Massif,1,1,2,5
+470,FRANCE Sud Massif,2,3,5,7
+471,FRANCE Sud Massif,1,2,3,5
+472,FRANCE Sud Massif,1,1,3,5
+473,FRANCE Sud Massif,1,3,3,5
+474,GERMANY Urach,1,2,3,5
+475,GERMANY Urach,1,2,4,6
+476,GERMANY Urach,1,2,4,6
+477,GERMANY Urach,1,2,3,6
+478,GERMANY Urach,1,1,2,5
+479,GERMANY Urach,1,2,3,5
+480,SLOVENIA Postojna Masun,2,5,7,7
+481,SLOVENIA Postojna Masun,5,7,7,7
+482,SLOVENIA Postojna Masun,2,2,4,6
+483,SLOVENIA Postojna Masun,4,7,7,7
+484,SLOVENIA Postojna Masun,2,3,5,7
+485,SLOVENIA Postojna Masun,2,6,7,7
+486,BELGIUM Soignes,1,1,3,5
+487,BELGIUM Soignes,2,2,2,3
+488,BELGIUM Soignes,1,2,3,6
+489,BELGIUM Soignes,2,3,4,6
+490,BELGIUM Soignes,1,1,2,3
+491,BELGIUM Soignes,1,2,2,2
+492,FRANCE Bourdure Man,1,3,5,7
+493,FRANCE Bourdure Man,1,3,4,6
+494,FRANCE Bourdure Man,1,1,1,5
+495,FRANCE Bourdure Man,1,4,6,7
+496,FRANCE Bourdure Man,2,5,6,7
+497,FRANCE Bourdure Man,1,3,4,6
+498,Sonning Common (control),1,2,4,6
+499,Sonning Common (control),1,3,6,7
+500,Sonning Common (control),1,2,4,6
+501,Sonning Common (control),1,1,2,5
+502,Sonning Common (control),1,1,2,5
+503,Sonning Common (control),1,3,4,6
+504,FRANCE Pyrenees Or,2,3,5,6
+505,FRANCE Pyrenees Or,1,2,3,6
+506,FRANCE Pyrenees Or,1,4,5,6
+507,FRANCE Pyrenees Or,1,2,4,5
+508,FRANCE Pyrenees Or,1,3,4,5
+509,FRANCE Pyrenees Or,1,2,4,6
+510,POLAND Bilowo 115/116,2,3,5,7
+511,POLAND Bilowo 115/116,1,2,5,6
+512,POLAND Bilowo 115/116,2,4,6,6
+513,POLAND Bilowo 115/116,2,4,6,7
+514,POLAND Bilowo 115/116,2,3,5,6
+515,POLAND Bilowo 115/116,2,3,4,6
+516,CZECH Horni Plana-Ce.,1,6,7,7
+517,CZECH Horni Plana-Ce.,3,6,7,7
+518,CZECH Horni Plana-Ce.,2,3,5,6
+519,CZECH Horni Plana-Ce.,3,6,7,7
+520,CZECH Horni Plana-Ce.,1,3,5,7
+521,CZECH Horni Plana-Ce.,1,3,4,6
+522,FRANCE Picardie,1,3,4,6
+523,FRANCE Picardie,1,2,5,6
+524,FRANCE Picardie,1,2,4,6
+525,FRANCE Picardie,1,2,3,5
+526,FRANCE Picardie,3,6,7,7
+527,FRANCE Picardie,1,3,5,6
+528,GB South Downs Q.E. ,1,2,3,5
+529,GB South Downs Q.E. ,1,1,2,5
+530,GB South Downs Q.E. ,1,2,3,6
+531,GB South Downs Q.E. ,1,2,2,4
+532,GB South Downs Q.E. ,1,2,2,5
+533,GB South Downs Q.E. ,1,2,4,6
+534,NETHERLANDS Elspeet,2,2,2,5
+535,NETHERLANDS Elspeet,1,1,1,2
+536,NETHERLANDS Elspeet,1,1,1,3
+537,NETHERLANDS Elspeet,1,2,4,6
+538,NETHERLANDS Elspeet,1,1,1,5
+539,NETHERLANDS Elspeet,1,2,2,6
