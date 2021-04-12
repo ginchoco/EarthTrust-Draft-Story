@@ -13,7 +13,7 @@ const innerHeight = height - margin.top - margin.bottom
 
 const settings1 = {
     years: ["22/4/04", "29/04/04", "06/05/04", "13/05/04"],
-    file: "./CleanBWP2.csv",
+    file: "../data/CleanBWP2.csv",
     width: 800
 }
 
@@ -34,8 +34,6 @@ d3.csv(settings.file).then(data => {
             d[y] = + d[y] // +d[y] parses the attribute as an integer
         })
     })
-
-    console.log(data)
 
     const xScale = d3.scaleBand()
           .domain(data.map(d => d.Index))
